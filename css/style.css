@@ -40,10 +40,11 @@
     line-height: 14px;
     color: var(--black);
     font-family: 'myriad-pro-regular';
-    padding: 10px 6px;
+    padding: 15px 6px;
+    border-bottom:none;
 }
 #nav .nav_link a:hover{
-    color: var(--brand1);
+    color: #ffffff;
 }
 /* nav part end */
 

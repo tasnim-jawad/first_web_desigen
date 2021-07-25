@@ -1,8 +1,8 @@
 /* xs */
 @media screen and (max-width: 575.98px) {
-    #nav{
+    /* #nav{
         display: none;
-    }
+    } */
     #header .left_p {
         text-align: center;
         line-height: 35px;
@@ -52,9 +52,9 @@
 
 /* sm */
 @media (min-width: 576px) and (max-width: 767.98px) {
-    #nav{
+    /* #nav{
         display: none;
-    }
+    } */
     #about .right_content p {
         margin-top: 0px;
         margin-bottom: 30px;
