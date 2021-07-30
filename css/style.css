@@ -25,6 +25,10 @@
 /* header part end */
 
 /* nav part start */
+#nav_trigger,
+#nav_close{
+    display: none;
+}
 #nav{
     padding: 10px 0px;
 }
